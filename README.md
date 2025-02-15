@@ -1,17 +1,17 @@
 Hi there! 👋
-I'm Paras Gulvasnhi, a passionate developer and tech enthusiast. Welcome to my GitHub profile! 🚀
+I'm Paras Gulvasnhi, a passionate developer and tech enthusiast. Welcome to my GitHub profile! 🚀</br>
 
-🔭 I’m currently working on MERN stack applications.
-🌱 I’m currently enhancing my MERN skills.
-👯 I’m looking to collaborate on open-source projects and innovative web applications.
-🤔 I’m looking for help with optimizing performance in large-scale applications.
-💬 Ask me about web development, C++ programming, or React best practices.
-📫 How to reach me: gulvanshiparas12@gmail.com
-😄 Pronouns: He/Him
+🔭 I’m currently working on MERN stack applications.</br>
+🌱 I’m currently enhancing my MERN skills.</br>
+👯 I’m looking to collaborate on open-source projects and innovative web applications.</br>
+🤔 I’m looking for help with optimizing performance in large-scale applications.</br>
+💬 Ask me about web development, C++ programming, or React best practices.</br>
+📫 How to reach me: gulvanshiparas12@gmail.com</br>
+😄 Pronouns: He/Him</br>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Mern Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras-29" alt="paras-29" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
